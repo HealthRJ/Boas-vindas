@@ -1,0 +1,10 @@
+Este é o repositório de inovação aberta da CNC.
+===============================================================
+O objetivo desse repositório é ter um hub com ideias de inovação aberta, colaboração entre projetos de empresas parceiras, onde cada empresa pode entrar e 'editar' cada projeto
+seguindo os moldes de funcionamento de um código fonte de sistema. Repare que o objetivo aqui não é voltado para a programação, mas utilizar a estrutura do github para 
+colaborar 'subindo' dados, realizando commits, branches, pull requests, estritamente voltado para uma característica administrativa.
+===============================================================
+Regras de uso:
+================
+1 - É proibida a utilização da ferramenta para publicação de códigos-fonte ou qualquer parte de arquivos que deem a entender que a ferramenta está sendo utilizada para o
+seu objetivo nativo. A ferramenta github permite a instalação de um projeto do início ao fim, trazendo a natureza colaborativa entre as partes envolvidas.
